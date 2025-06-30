@@ -19,9 +19,9 @@ public:
             int cur_key = item.first, cnt_val = item.second;
             if(cur_key == lastNum + 1){
                 MaxLength = max(MaxLength, cnt_val + lastCnt);
-                lastNum = cur_key;
-                lastCnt = cnt_val;
             }
+            lastNum = cur_key;
+            lastCnt = cnt_val;
         }
         return MaxLength;
     }
