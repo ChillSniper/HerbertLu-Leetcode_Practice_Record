@@ -29,3 +29,8 @@ private:
         return true;
     }
 };
+
+int main(){
+    cout << "test" << endl;
+    return 0;
+}
