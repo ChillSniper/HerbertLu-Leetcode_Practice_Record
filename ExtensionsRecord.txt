@@ -1,0 +1,27 @@
+C/C++
+C/C++ Extension Pack
+C/C++ Themes
+Chinese(Simplified)
+CodeSnap
+Containner Tools
+Docker
+Docker DX
+Error Lens
+EsLint
+GitHub THeme
+Makefile Tools
+Markdown all in one
+markdown PDF
+MARKDOWN Preview Enhanced 
+Markdownlint
+Powershell
+Prettier - Code formatter
+Pylance
+python 
+python debugger
+python environments
+vocode dosbox
+vscode-pdf
+x86 and x86_64 Assembly
+GitHub Copilot
+GitHub Copilot Chat

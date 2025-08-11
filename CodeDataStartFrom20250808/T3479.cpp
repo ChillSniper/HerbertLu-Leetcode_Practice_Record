@@ -17,6 +17,7 @@ public:
         Build(arr, 1, 0, n - 1);
     }
     bool FindFirstWithUpdate(int i, int l, int r, int x) {
+        
         if(max_val[i] < x) {
             return -1;
         }
@@ -34,6 +35,7 @@ public:
     }
 private:
     void Build(const vector<int>& arr, int i, int l, int r) {
+        
         if(l == r) {
             max_val[i] = arr[l];
             return ;
