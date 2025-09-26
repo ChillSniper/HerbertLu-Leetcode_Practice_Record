@@ -1,3 +1,4 @@
 {
-    "C_Cpp.default.compilerPath": "D:/MinGw/MSYS2Data/ucrt64/bin/g++.exe"
+    "C_Cpp.default.compilerPath": "D:/MinGw/MSYS2Data/ucrt64/bin/g++.exe",
+    "java.project.sourcePaths": ["src"]
 }
