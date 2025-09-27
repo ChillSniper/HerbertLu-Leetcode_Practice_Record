@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T931 {
     public int minFallingPathSum(int[][] matrix) {
         int n = matrix.length;

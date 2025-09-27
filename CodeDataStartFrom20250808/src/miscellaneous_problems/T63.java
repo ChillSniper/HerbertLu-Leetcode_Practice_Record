@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T63 {
     public int uniquePathsWithObstacles(int[][] obstacleGrid) {
         int m = obstacleGrid.length, n = obstacleGrid[0].length;

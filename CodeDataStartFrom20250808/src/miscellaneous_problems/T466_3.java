@@ -1,1 +1,1 @@
-package problems_set;
+package miscellaneous_problems;

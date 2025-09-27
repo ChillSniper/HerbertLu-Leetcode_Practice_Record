@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 import java.util.List;
 
 public class T120New {

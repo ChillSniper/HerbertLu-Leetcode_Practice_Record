@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T3516 {
     public int findClosest(int x, int y, int z) {
         int disx = Math.abs(x - z), disy = Math.abs(y - z);

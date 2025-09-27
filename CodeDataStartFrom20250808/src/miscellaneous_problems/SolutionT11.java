@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 class SolutionT11 {
     public int maxArea(int[] height) {
         // 我真的服了，刚刚那个贪心的做法一坨

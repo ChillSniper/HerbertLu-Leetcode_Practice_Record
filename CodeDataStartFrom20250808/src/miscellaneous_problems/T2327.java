@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T2327 {
     public int peopleAwareOfSecret(int n, int delay, int forget) {
         // 这个看题意应该是使用dp，怎么整呢

@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T467_4 {
     public static void main(String[] args) {
         int[] nums = {7, 17, 7, 8};

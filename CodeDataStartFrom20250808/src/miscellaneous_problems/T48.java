@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T48 {
     public void rotate(int[][] matrix) {
         int n = matrix.length;

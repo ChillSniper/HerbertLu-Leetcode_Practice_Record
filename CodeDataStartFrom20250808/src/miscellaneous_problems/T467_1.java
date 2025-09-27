@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 
 public class T467_1 {
         public int earliestTime(int[][] tasks) {

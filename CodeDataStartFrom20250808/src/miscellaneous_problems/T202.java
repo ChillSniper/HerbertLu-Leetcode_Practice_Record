@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 import java.util.HashSet;
 import java.util.Set;
 

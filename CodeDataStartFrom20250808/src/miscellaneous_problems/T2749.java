@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T2749 {
     public int makeTheIntegerZero(int num1, int num2) {
         // 涉及到位运算的题

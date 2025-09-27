@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T1935 {
     public int canBeTypedWords(String text, String brokenLetters) {
         char[] record = new char[26];
