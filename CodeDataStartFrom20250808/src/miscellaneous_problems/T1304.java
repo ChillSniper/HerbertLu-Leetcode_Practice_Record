@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T1304 {
     public int[] sumZero(int n) {
         int[] ans = new int[n];

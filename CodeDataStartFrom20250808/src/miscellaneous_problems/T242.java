@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T242 {
     public boolean isAnagram(String s, String t) {
         int[] cnt = new int[26];

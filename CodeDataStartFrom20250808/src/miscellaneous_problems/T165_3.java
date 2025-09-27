@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T165_3 {
     public int[][] generateSchedule(int n) {
         // 这破题

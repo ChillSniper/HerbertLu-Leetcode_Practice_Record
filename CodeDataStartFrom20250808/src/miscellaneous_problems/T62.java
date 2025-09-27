@@ -1,4 +1,4 @@
-package problems_set;
+package miscellaneous_problems;
 public class T62 {
     public int uniquePaths(int m, int n) {
         return C(m - 1, m + n - 2);
