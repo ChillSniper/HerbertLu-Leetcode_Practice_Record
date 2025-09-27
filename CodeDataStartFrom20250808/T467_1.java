@@ -1,5 +1,3 @@
-package miscellaneous_problems;
-
 public class T467_1 {
         public int earliestTime(int[][] tasks) {
             int ans = Integer.MAX_VALUE, n = tasks.length;

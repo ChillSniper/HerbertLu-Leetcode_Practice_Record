@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T466_1 {
     public int minOperations(int[] nums) {
         int n = nums.length, x = nums[0], flag = 1;

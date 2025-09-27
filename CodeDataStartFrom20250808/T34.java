@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 // public class T34 {
 //     public int[] searchRange(int[] nums, int target) {
 //         int n = nums.length, l = 0, r = n - 1;
