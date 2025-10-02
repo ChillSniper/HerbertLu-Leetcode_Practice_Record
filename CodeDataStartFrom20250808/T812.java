@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 
 // public class T812 {
 //     public double largestTriangleArea(int[][] points) {

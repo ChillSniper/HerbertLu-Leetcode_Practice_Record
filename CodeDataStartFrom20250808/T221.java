@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 
 public class T221 {
     public int maximalSquare(char[][] matrix) {

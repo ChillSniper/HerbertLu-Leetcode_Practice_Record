@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         int n = numbers.length, l = 0, r = n - 1;

@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T1094 {
     public boolean carPooling(int[][] trips, int capacity) {
         int n = trips.length;

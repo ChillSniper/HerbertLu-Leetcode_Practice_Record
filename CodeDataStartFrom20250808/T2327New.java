@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T2327New {
     public int peopleAwareOfSecret(int n, int delay, int forget) {
         int record[] = new int[n + 1];

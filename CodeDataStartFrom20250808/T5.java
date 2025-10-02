@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T5 {
     public String longestPalindrome(String s) {
         // 甚至我感到很奇怪，这道题为什么不是贪心，而是动态规划

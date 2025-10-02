@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 import java.math.BigInteger;
 import java.util.ArrayDeque;
 import java.util.ArrayList;

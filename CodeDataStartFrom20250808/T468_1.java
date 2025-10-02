@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T468_1 {
     public int evenNumberBitwiseORs(int[] nums) {
         int n = nums.length, ans = 0;

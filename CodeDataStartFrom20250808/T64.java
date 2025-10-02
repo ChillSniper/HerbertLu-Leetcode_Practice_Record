@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T64 {
     public int minPathSum(int[][] grid) {
         int m = grid.length, n = grid[0].length;

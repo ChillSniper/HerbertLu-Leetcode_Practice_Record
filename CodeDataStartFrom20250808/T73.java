@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T73 {
     public void setZeroes(int[][] matrix) {
         // 容易想到的处理方式是使用两个set记录，但这显然不是最优解

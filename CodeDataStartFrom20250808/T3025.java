@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 import java.util.Arrays;;
 
 public class T3025 {

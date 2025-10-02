@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T289 {
     public void gameOfLife(int[][] board) {
         // 这道题如果另外开一个数组是可以很方便的搞掉的，但是问题在于怎么原地操作

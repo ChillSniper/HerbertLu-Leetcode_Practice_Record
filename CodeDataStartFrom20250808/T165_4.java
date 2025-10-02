@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 import java.util.*;
 public class T165_4 {
     public int maxXorSubsequences(int[] nums) {

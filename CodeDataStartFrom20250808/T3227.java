@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T3227 {
     public boolean doesAliceWin(String s) {
         int len = s.length();

@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T209 {
     public int minSubArrayLen(int target, int[] nums) {
         // 注意此题的题目条件。。。是大于等于而不是等于

@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T3495 {
     public long minOperations(int[][] queries) {
         // 这种题新的知识点很多，要耐心下来看懂……

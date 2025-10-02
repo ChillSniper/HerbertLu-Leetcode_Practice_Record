@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 import java.util.*;
 public class T966 {
     public String[] spellchecker(String[] wordlist, String[] queries) {

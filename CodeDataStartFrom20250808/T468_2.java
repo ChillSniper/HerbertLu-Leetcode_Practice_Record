@@ -1,4 +1,3 @@
-package miscellaneous_problems;
 public class T468_2 {
     public long maxTotalValue(int[] nums, int k) {
         int len = nums.length;
