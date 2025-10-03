@@ -27,7 +27,7 @@ class MovieRentingSystem {
         for (int[] e : entries) {
             int shop = e[0], movie = e[1], price = e[2];
             table.put((long)shop << 32 | movie, price);
-            unrented.computeIfAbsent(movie, _ -> new TreeSet<>(
+            unrented.computeIfAbsent(movie, k -> new TreeSet<>(
                 (a, b) -> {
                     if(a[0] != b[0])
                         return a[0] - b[0];

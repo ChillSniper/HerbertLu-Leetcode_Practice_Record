@@ -12,7 +12,7 @@ public class T49 {
             char[] fk = s.toCharArray();
             Arrays.sort(fk);
             String sorted = new String(fk);
-            record.computeIfAbsent(sorted, _ -> new ArrayList<>()).add(s);
+            record.computeIfAbsent(sorted, k -> new ArrayList<>()).add(s);
         }
 
         for (Map.Entry<String, List<String>> mp : record.entrySet()) {
